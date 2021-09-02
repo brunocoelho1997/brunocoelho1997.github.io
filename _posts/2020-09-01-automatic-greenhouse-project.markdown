@@ -25,16 +25,17 @@ As it's possible to see on the next picture, on the main page is displayed:
 
 ![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/main_page.png)
 
-For this last feature, that is, the smart watering, the user was enabled to configure:
-* Configure the manual/automatic watering time
+For this last feature, that is, the smart watering, the user was allowed to:
+* Configure the automatic watering time (how much time the watering system would be turned on - in minutes)
 * Turn on/off the automatic watering system
 * Program when the watering system would be turned on (when the automatic watering system was enabled)
 
 ![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/configure_smart_watering_system.png)
 
 The automatic greenhouse project also had some other features, like:
-* Activate/deactivate in real-time the watering system (manual watering)
-* and query for last recorded data of water, temperature, and humidity
+* Configure the manual watering time (in minutes)
+* Activate/deactivate in real-time the watering system (manual trigger)
+* And query for the last recorded data of water, temperature, and humidity.
 
 ![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/manual_watering_system.png)
 
