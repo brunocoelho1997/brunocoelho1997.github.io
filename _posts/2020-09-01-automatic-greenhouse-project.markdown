@@ -52,3 +52,7 @@ The automatic greenhouse project also had some other features, like:
 ![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/result_3.jpg)
 
 ![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/result_4.jpg)
+
+
+## References
+* https://github.com/brunocoelho1997/GreenhouseProject
