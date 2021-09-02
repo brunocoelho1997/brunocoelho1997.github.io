@@ -11,9 +11,9 @@ When I was 18 years old, I already had some programming skills. So, as a final p
 
 
 ## Features
-Was developed to be easy to install and use the automatic greenhouse. Was only necessary to:
-* Connect the automatic greenhouse to 220v
-* Connect the automatic greenhouse to ethernet cable
+The automatic greenhouse was developed to be easy to install and use. Was only necessary to:
+* Connect it to 220v
+* Connect it to local network using ethernet cable
 * Turn on the automatic greenhouse
 * Control it using a web interface.
 
@@ -53,3 +53,7 @@ The automatic greenhouse project also had some other features, like:
 ![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/result_3.jpg)
 
 ![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/result_4.jpg)
+
+
+## References
+* [Github Project](https://github.com/brunocoelho1997/GreenhouseProject) 
