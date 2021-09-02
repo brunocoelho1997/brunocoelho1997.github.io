@@ -44,16 +44,17 @@ The automatic greenhouse project also had some other features, like:
 
 ## More images of the project
 
-![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/eletric_schema.png)
+<img src="{{site.baseurl}}/assets/img/project_greenhouse/eletric_schema.png" alt="Electric Schema" class="post-images">
 
-![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/result_1.jpg)
+<img src="{{site.baseurl}}/assets/img/project_greenhouse/result_1.jpg" alt="Result" class="post-images">
 
-![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/result_2.jpg)
+<img src="{{site.baseurl}}/assets/img/project_greenhouse/result_2.jpg" alt="Result" class="post-images">
 
-![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/result_3.jpg)
+<img src="{{site.baseurl}}/assets/img/project_greenhouse/result_3.jpg" alt="Result" class="post-images">
 
-![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/result_4.jpg)
-
+<img src="{{site.baseurl}}/assets/img/project_greenhouse/result_4.jpg" alt="Result" class="post-images">
 
 ## References
 * [Github Project](https://github.com/brunocoelho1997/GreenhouseProject) 
+
+
