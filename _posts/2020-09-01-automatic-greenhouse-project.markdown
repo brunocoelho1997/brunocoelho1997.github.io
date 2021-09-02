@@ -11,9 +11,9 @@ When I was 18 years old, I already had some programming skills. So, as a final p
 
 
 ## Features
-Was developed to be easy to install and use the automatic greenhouse. Was only necessary to:
-* Connect the automatic greenhouse to 220v
-* Connect the automatic greenhouse to ethernet cable
+The automatic greenhouse was developed to be easy to install and use. Was only necessary to:
+* Connect it to 220v
+* Connect it to local network using ethernet cable
 * Turn on the automatic greenhouse
 * Control it using a web interface.
 
@@ -25,7 +25,7 @@ As it's possible to see on the next picture, on the main page is displayed:
 
 ![Main Page]({{site.baseurl}}/assets/img/project_greenhouse/main_page.png)
 
-For this last feature, that is, the smart watering, the user was enabled to configure:
+For this last feature, that is, the smart watering, the user was enabled to:
 * Configure the manual/automatic watering time
 * Turn on/off the automatic watering system
 * Program when the watering system would be turned on (when the automatic watering system was enabled)
