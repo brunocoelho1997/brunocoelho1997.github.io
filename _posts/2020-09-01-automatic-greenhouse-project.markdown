@@ -55,4 +55,4 @@ The automatic greenhouse project also had some other features, like:
 
 
 ## References
-* https://github.com/brunocoelho1997/GreenhouseProject
+* [Github Project](https://github.com/brunocoelho1997/GreenhouseProject) 
