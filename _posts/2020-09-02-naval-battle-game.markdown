@@ -45,9 +45,5 @@ When is selected to play, the game allows:
 
 ![Main Page]({{site.baseurl}}/assets/img/project_navalbattlegame/14.png)
 
-![Main Page]({{site.baseurl}}/assets/img/project_navalbattlegame/15.png)
-
-![Main Page]({{site.baseurl}}/assets/img/project_navalbattlegame/12.png)
-
 ## References
 * [Github Project](https://github.com/brunocoelho1997/NavalBattleGame)
