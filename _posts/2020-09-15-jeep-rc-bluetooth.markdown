@@ -22,9 +22,7 @@ As it's possible to see on the video, with an Android phone and the RC turned on
 
 ## More images of the project
 
-<img src="{{site.baseurl}}/assets/img/project_navalbattlegame/architecture.png" alt="Result" class="post-images">
-
-![Main Page]({{site.baseurl}}/assets/img/project_navalbattlegame/12.png)
+<img src="{{site.baseurl}}/assets/img/project_jeeprcbluetooth/2.png" alt="Result" class="post-images">
 
 ## References
 * [Github Project](https://github.com/brunocoelho1997/NavalBattleGame)
