@@ -15,10 +15,10 @@ A project which controls an RC Jeep via Bluetooth with an Arduino Uno, two DC Mo
 [![Video of the final result](https://img.youtube.com/vi/57s6BJGj7tE/0.jpg)](https://www.youtube.com/watch?v=57s6BJGj7tE)
 
 As it's possible to see on the video, with an Android phone and the RC turned on we are able to:
-* Connect to the RC using bluetooth
+* Connect to the RC using bluetooth,
 * turn left and right,
 * accelerate 25%, 50%, 75% and 100%,
-* set a gear, to the front or to reverse.
+* and set a gear, to the front or to reverse.
 
 ## More images of the project
 
