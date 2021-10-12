@@ -3,7 +3,7 @@ layout: post
 title: Wilson's House Controller
 date: 2020-09-16 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: project_wilsonshousecontroller/3.jpeg # Add image post (optional)
+img: project_wilsonshousecontroller/2.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
@@ -14,7 +14,8 @@ I embraced the challenge as if the controller would be used to my house.
 
 ## Description
 
-<img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/3.jpeg" alt="Result" class="post-images">
+
+<img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/2.jpeg" alt="Result" class="post-images">
 
 Firstly I did research about PLCs and how I could communicate with it. After some research, I developed an architecture diagram (the result can be seen in the following picture).
 
@@ -44,13 +45,17 @@ In this project, since the API and the database would run on a Raspberry 24/7, w
 
 
 ## More images of the project
-<img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/1.jpeg" alt="Result" class="post-images">
+<img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/1.JPG" alt="Result" class="post-images">
 
-<img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/2.jpeg" alt="Result" class="post-images">
+<img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/3.jpeg" alt="Result" class="post-images">
 
 <img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/4.jpeg" alt="Result" class="post-images">
 
 <img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/5.jpeg" alt="Result" class="post-images">
+
+<img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/6.jpeg" alt="Result" class="post-images">
+
+<img src="{{site.baseurl}}/assets/img/project_wilsonshousecontroller/7.jpeg" alt="Result" class="post-images">
 
 ## References
 * [Github Project](https://github.com/brunocoelho1997/Wilson-s-House-Controller)
