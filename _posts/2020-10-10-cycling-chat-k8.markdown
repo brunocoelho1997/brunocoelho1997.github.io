@@ -12,10 +12,13 @@ After some time being full-stack developer, I become a DevOps enthusiast. In ord
 
 ## Description
 
-Initially, I researched how to create a cluster and easily I found some content to help me with that. After some hours I had my cluster with the setup finished.
-After having the cluster configured, I started to create a Spring Boot API with 1 endpoint (list all messages). Also, was created a Dockerfile to create a docker image with the application that would be used by kubernetes.
-After that, I created the YAML templates: the deployment and the service. With this, in order to automate the release of the spring boot app and all kubernetes templates, I used Helm and I configured all necessary YAMLs to automate a release of the app.
-Since the main goal of the application was a Cycling Chat, I deployed with Helm a Postgresql statefulset to save all messages that were published on a RabbitMQ statefulset (that also was deployed with Helm). To test this application was created a Java Application to publish messages on RabbitMQ.
+Initially, I researched how to create a cluster and easily found some content to help me. After a few 
+hours, I had my cluster fully installed. After configuring the cluster, I started creating a Spring Boot API with one endpoint (list all messages).<br>
+I also created a Dockerfile to create a docker image. The last will have the application that is going
+to be used by Kubernetes. After that, I created the YAML templates: the deployment and the service.
+<br>Additionally, I used Helm to automate the release of the spring boot app and all Kubernetes templates.
+Then I configured all necessary YAMLs to automate the release of the app. The main goal of the application is a Cycling Chat. 
+So, I deployed a Postgresql statefulset with Helm. This way, it can save all published messages from another RabbitMQ statefulset (also deployed with Helm). Lastly, I created a Java Application to publish messages on RabbitMQ.
 
 ## More images of the project
 <img src="{{site.baseurl}}/assets/img/project_cyclingchat/1.png" alt="Result" class="post-images">
