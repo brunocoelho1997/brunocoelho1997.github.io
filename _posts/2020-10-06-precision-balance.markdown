@@ -14,7 +14,7 @@ For this project was supplied an Arduino board and 16 cells/sensors (HX711). As 
 * Connect the app to the balance;
 * See the weight of each leg (average of 4 cells);
 * Tare the actual values;
-* Export values, that is, share the actual values with a C# application and this app will create a PDF. This application is already developed by my friend.
+* Export values, that is, share the actual values with a C# application (already developed by my friend) and this app will create a PDF.
 
 <img src="{{site.baseurl}}/assets/img/project_precisionbalance/1.jpeg" alt="Result" class="post-images">
 
