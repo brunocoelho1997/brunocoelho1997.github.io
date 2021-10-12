@@ -11,13 +11,13 @@ When I was 18 years old, I already had some programming skills. So, as a final p
 
 
 ## Features
-The automatic greenhouse was developed to be easy to install and use. Was only necessary to:
+I developed the automatic greenhouse to be easy to install and use. It was only necessary to:
 * Connect it to 220v,
 * Connect it to local network using ethernet cable,
 * Turn on the automatic greenhouse,
 * Control it using a web interface.
 
-As it's possible to see on the next picture, on the main page is displayed:
+As it’s possible to see on the following picture, the main page displays:
 * Actual temperature,
 * Actual humidity,
 * The watering state,
