@@ -8,17 +8,17 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 
-A project which controls a RC Jeep via Bluetooth with an Arduino Uno, two DC Motors and an Android via Bluetooth. The android project was created with Java using Android Studio.
+A project which controls a RC Jeep via Bluetooth. With an Arduino Uno, two DC Motors, and an Android via Bluetooth. The android project was created with Java using Android Studio.
 
 ## Features
 
 [![Video of the final result](https://img.youtube.com/vi/57s6BJGj7tE/0.jpg)](https://www.youtube.com/watch?v=57s6BJGj7tE)
 
-As it's possible to see on the video, with an Android smartphone and the RC turned on we are able to:
+As it’s possible to see on the video, with an Android smartphone and the RC turned on we can:
 * Connect to the RC using bluetooth,
 * turn left and right,
 * accelerate 25%, 50%, 75% and 100%,
-* and set a gear, to the front or to reverse.
+* set a gear - to the front or to reverse.
 
 ## More images of the project
 
