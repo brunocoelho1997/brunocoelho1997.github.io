@@ -8,14 +8,13 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 
-On bachelor's context was developed a Naval Battle Game using Android. In this game a user could play single player and multiplayer.
+Within my bachelor’s context, I developed a Naval Battle Game using Android. In this game, a user could play single-player and multiplayer.
 
 ## Features
 
 ![Main Page]({{site.baseurl}}/assets/img/project_navalbattlegame/main_menu.png)
 
-As it's possible to see in the previous picture when we open the app is displayed the main menu that allows us to select to play or manage profiles.
-To manage profiles we could:
+The main menu is displayed when we open the app (as we see in the previous image). It allows us to select to play or manage profiles. To manage profiles, we could:
 * Create/edit/delete profiles,
 * take photos and use them on profiles,
 * see all records from a profile
@@ -29,8 +28,8 @@ To manage profiles we could:
 
 
 When is selected to play, the game allows:
-* playing single player, that is, with "artificial intelligence" (random)
-* and allows playing multiplayer, that is, playing with another player that would have the app on his phone. In this case, we could create or connect to a game.
+* playing single player, that is, with "artificial intelligence" (random),
+* it allows playing multiplayer: playing with another player that would have the app on his phone. In this case, we could create or connect to a game.
 
 ![Main Page]({{site.baseurl}}/assets/img/project_navalbattlegame/9.png)
 
